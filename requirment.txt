@@ -1,0 +1,7 @@
+streamlit==1.25.0
+python-dotenv==1.0.0
+langchain==0.0.2
+# If langchain-google-genai isn't on PyPI:
+git+https://github.com/langchain/langchain-google-genai.git
+# If langchain_core.prompts isn't on PyPI:
+git+https://github.com/langchain/langchain-core.git
